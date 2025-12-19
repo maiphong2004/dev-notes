@@ -6,10 +6,10 @@
 
 ## 1️⃣ Cài đặt khi quay (Camera iPhone)
 
-- **Độ phân giải**: 4K – 30fps *(hoặc 60fps nếu quay chuyển động)*
-- **HDR**: BẬT
-- **Exposure (EV)**: -0.3 → -0.7 *(giữ chi tiết trời)*
-- **Focus**: Khóa AF/AE nếu có ánh sáng mạnh
+* **Độ phân giải**: 4K – 30fps *(hoặc 60fps nếu quay chuyển động)*
+* **HDR**: BẬT
+* **Độ phơi sáng (EV)**: -0.3 → -0.7 *(giữ chi tiết trời)*
+* **Focus**: Khóa AF/AE nếu có ánh sáng mạnh
 
 ---
 
@@ -17,84 +17,84 @@
 
 ### 🔆 Ánh sáng
 
-| Thông số | Giá trị gợi ý |
-|--------|--------------|
-| Exposure | -5 → -10 |
-| Brilliance | +15 → +25 |
-| Highlights | -30 → -45 |
-| Shadows | +20 → +35 |
-| Contrast | +8 → +15 |
-| Brightness | -5 → 0 |
-| Black Point | +8 → +15 |
+| Thông số      | Giá trị gợi ý |
+| ------------- | ------------- |
+| Độ phơi sáng  | -5 → -10      |
+| Độ rực sáng   | +15 → +25     |
+| Vùng sáng     | -30 → -45     |
+| Vùng tối      | +20 → +35     |
+| Độ tương phản | +8 → +15      |
+| Độ sáng       | -5 → 0        |
+| Điểm đen      | +8 → +15      |
 
 ---
 
 ### 🎨 Màu sắc
 
-| Thông số | Giá trị gợi ý |
-|-------|--------------|
-| Saturation | +5 → +10 |
-| Vibrance | +10 → +20 |
-| Warmth | +5 → +12 *(ấm nhẹ)* |
-| Tint | +2 → +6 *(ngả hồng nhẹ)* |
+| Thông số      | Giá trị gợi ý            |
+| ------------- | ------------------------ |
+| Độ bão hòa    | +5 → +10                 |
+| Độ sống động  | +10 → +20                |
+| Độ ấm màu     | +5 → +12 *(ấm nhẹ)*      |
+| Sắc hồng/xanh | +2 → +6 *(ngả hồng nhẹ)* |
 
 ---
 
 ### ✨ Chi tiết
 
-| Thông số | Giá trị gợi ý |
-|--------|--------------|
-| Sharpness | +5 → +10 |
-| Definition | +10 → +20 |
-| Noise Reduction | +5 → +10 |
-| Vignette | +8 → +15 |
+| Thông số            | Giá trị gợi ý |
+| ------------------- | ------------- |
+| Độ sắc nét          | +5 → +10      |
+| Độ chi tiết         | +10 → +20     |
+| Giảm nhiễu          | +5 → +10      |
+| Viền tối (Vignette) | +8 → +15      |
 
 ---
 
-## 3️⃣ Preset nhanh (copy dùng liền)
+## 3️⃣ Cấu hình chỉnh màu nhanh (sao chép dùng liền)
 
 ```text
-Exposure: -7
-Brilliance: +22
-Highlights: -40
-Shadows: +30
-Contrast: +12
-Brightness: -3
-Black Point: +12
-Saturation: +7
-Vibrance: +15
-Warmth: +8
-Tint: +4
-Sharpness: +8
-Definition: +15
-Noise Reduction: +8
-Vignette: +12
+Độ phơi sáng: -7
+Độ rực sáng: +22
+Vùng sáng: -40
+Vùng tối: +30
+Độ tương phản: +12
+Độ sáng: -3
+Điểm đen: +12
+Độ bão hòa: +7
+Độ sống động: +15
+Độ ấm màu: +8
+Sắc hồng/xanh: +4
+Độ sắc nét: +8
+Độ chi tiết: +15
+Giảm nhiễu: +8
+Viền tối (Vignette): +12
 ```
 
 ---
 
 ## 4️⃣ Nếu quay trong phòng gym sáng sớm
 
-- Giảm **Warmth** xuống còn `+3 → +5`
-- Tăng **Contrast** lên `+15 → +20`
-- Giảm **Highlights** mạnh hơn để tránh cháy đèn
+* Giảm **Độ ấm màu** xuống còn `+3 → +5`
+* Tăng **Độ tương phản** lên `+15 → +20`
+* Giảm **Vùng sáng** mạnh hơn để tránh cháy đèn
 
 ---
 
-## 5️⃣ Vibe màu đạt được
+## 5️⃣ Phong cách màu đạt được
 
-- 🌤 Ánh sáng sớm dịu
-- 🎞 Cinematic nhẹ
-- 💪 Da người & cơ thể rõ nét
-- ☕ Chill – tập trung – năng lượng đầu ngày
+* 🌤 Ánh sáng sớm dịu
+* 🎞 Cinematic nhẹ
+* 💪 Da người & cơ thể rõ nét
+* ☕ Chill – tập trung – năng lượng đầu ngày
 
 ---
 
 ## 6️⃣ Gợi ý app nâng cao
 
-- **VN** (dễ dùng, miễn phí)
-- **CapCut** (có curve, LUT)
-- **LumaFusion** (chuyên nghiệp)
+* **VN** (dễ dùng, miễn phí)
+* **CapCut** (có curve, LUT)
+* **LumaFusion** (chuyên nghiệp)
 
 ---
 
@@ -103,4 +103,3 @@ Vignette: +12
 ---
 
 Nếu bạn muốn 👉 **preset riêng cho quay gym / đường phố / chill café sáng sớm**, mình có thể tạo thêm file `.md` khác.
-
